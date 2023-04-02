@@ -7,3 +7,4 @@ git add . -> agrega todos los archivos al stagging área
 git commit -m "mensaje" -> realiza una instantánea de nuestro/s archivo/s en su estado actual y guarda los cambios
 git log --oneline -> nos muestra los commits realizados en una sola linea con sus códigos
 git reset --hard codigo del commit -> resetea nuestro trabajo al commit elegido
+editando desde github
