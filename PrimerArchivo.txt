@@ -10,3 +10,10 @@ git reset --hard codigo del commit -> resetea nuestro trabajo al commit elegido
 git push add remote origin -> envía mis archivos a github
 editando desde github
 git pull -> trae mis archivos desde github u otra rama
+git tag "nombre del tag" -m "mensaje" -> guarda una version del proyecto en un tag
+git push --tags -> sube el tag a nuestr repositorio
+
+Crear Ramas
+git branch -> muestra las ramas creadas y en cual estamos posicionados
+git branch "nombre de la rama" -> crea una nueva rama
+git checkout "nombre de la rama" -> nos posiciona en la rama seleccinada
