@@ -10,3 +10,8 @@ git reset --hard codigo del commit -> resetea nuestro trabajo al commit elegido
 git push add remote origin -> envía mis archivos a github
 editando desde github
 git pull -> trae mis archivos desde github u otra rama
+
+
+
+
+git merge "nombre de la rama a fusionar" -> fusiona la rama en la que estoy posicionado con la rama que indiquemos
