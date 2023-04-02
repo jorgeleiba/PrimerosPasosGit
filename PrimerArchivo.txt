@@ -1,0 +1,9 @@
+Usando comandos de git
+
+git init -> inicia git en la carpeta donde no encontremos
+git status -> nos indica que archivos existen en nuestro directorio y su estado
+git status -s -> muestra el estado de nuestros archivos de forma abreviada
+git add . -> agrega todos los archivos al stagging área
+git commit -m "mensaje" -> realiza una instantánea de nuestro/s archivo/s en su estado actual y guarda los cambios
+git log --oneline -> nos muestra los commits realizados en una sola linea con sus códigos
+git reset --hard codigo del commit -> resetea nuestro trabajo al commit elegido

@@ -1,0 +1,6 @@
+comando editor vim para modificaciones
+
+git commit --amend -> abre el editor vim
+:i -> para editar y luego escape
+:i -> nuevamente para edita
+:wq -> guarda los cambios y sale del editor
